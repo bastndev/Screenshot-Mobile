@@ -15,7 +15,7 @@ Screenshot of Mobile 2023
   <!-- Gif -->
   <div>
     <img src="/assets/img/allMode.gif" alt="">
-  </div>
+  </div>  
 <!--
 @bastndev🖤
 🙇‍♂️🎤⬇️
